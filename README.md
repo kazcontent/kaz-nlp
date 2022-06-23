@@ -1,5 +1,5 @@
-h# kaz-nlp
-NLP tools and resources for Kazakh language
+# kaz-nlp
+NLP tools and resources for Kazakh language. Please contribute.
 
 # Near term goals
 
