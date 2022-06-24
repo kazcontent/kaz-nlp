@@ -20,6 +20,7 @@ NLP tools and resources for Kazakh language. Please contribute.
 
 # Resources
 
+* Kazakhstani news corpus for social significance identification with topic modelling results https://data.mendeley.com/datasets/hwj24p9gkh/1
 * Tree Visualizer for Universal Dependencies and Immediate Catena Analysis https://github.com/KoichiYasuoka/deplacy/blob/master/doc/kk.md
 * UD Kazakh KTB https://universaldependencies.org/treebanks/kk_ktb/index.html
 * Natural Language Processing Pipeline https://github.com/adobe/NLP-Cube#languages
