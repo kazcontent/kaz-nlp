@@ -1,5 +1,6 @@
 # kaz-nlp
-NLP tools and resources for Kazakh language. Please contribute.
+NLP tools and resources for Kazakh language.
+Join telegram group https://t.me/+TZchOYqlcAtjOTgy
 
 # Near term goals
 
