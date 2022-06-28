@@ -37,6 +37,7 @@ Join telegram group https://t.me/+TZchOYqlcAtjOTgy
 
 # Resources on Kazakh that can be used to build corpora
 * https://thehack.kz/
+* https://book.chettam.kz/
 
 # Other Resources
 * Tree Visualizer for Universal Dependencies and Immediate Catena Analysis https://github.com/KoichiYasuoka/deplacy/blob/master/doc/kk.md
