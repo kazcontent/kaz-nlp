@@ -59,4 +59,5 @@ Join telegram group https://t.me/+TZchOYqlcAtjOTgy
 * Yandex GPT-3 like neural net https://github.com/yandex/YaLM-100B
 * BigScience Language Open-science Open-access Multilingual https://bigscience.notion.site/BLOOM-BigScience-176B-Model-ad073ca07cdf479398d5f95d88e218c4
 * Metaseq https://github.com/facebookresearch/metaseq
-* mqpt includes Kazakh https://github.com/ai-forever/mgpt
+* GPT Russian https://github.com/ai-forever/ru-gpts
+* mGPT includes Kazakh https://github.com/ai-forever/mgpt
