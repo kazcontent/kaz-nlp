@@ -57,7 +57,7 @@ Join telegram group https://t.me/+TZchOYqlcAtjOTgy
 * Склонение слов по правилам казахского языка https://github.com/timurt/kazakh-grammar
 * kazlemmatizer https://github.com/salamatin/kzlangtools/blob/master/lemmatizer/kazlemmatizer.py
 * Yandex GPT-3 like neural net https://github.com/yandex/YaLM-100B
-* BigScience Language Open-science Open-access Multilingual https://bigscience.notion.site/BLOOM-BigScience-176B-Model-ad073ca07cdf479398d5f95d88e218c4
+* BigScience Language Open-science Open-access Multilingual https://bigscience.notion.site/BLOOM-BigScience-176B-Model-ad073ca07cdf479398d5f95d88e218c4 (https://huggingface.co/bigscience/bloom#training-data)
 * Metaseq https://github.com/facebookresearch/metaseq
 * GPT Russian https://github.com/ai-forever/ru-gpts
 * mGPT includes Kazakh https://github.com/ai-forever/mgpt
